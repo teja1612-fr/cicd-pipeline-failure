@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Python App
-        run: python missing_file.py
+        run: python app.py
